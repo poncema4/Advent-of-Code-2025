@@ -119,4 +119,4 @@ if __name__ == "__main__":
         lines = f.readlines()
 
     answer = largest_area(lines)
-    print("Largest area of any rectangle with only red and green tiles:", answer)
+    print("Largest area of any rectangle with only red and green tiles: ", answer)
